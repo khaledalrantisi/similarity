@@ -1,0 +1,4 @@
+The lazy dog jumps over the quick brown fox.
+Python and Java are popular programming languages.
+Machine learning algorithms offer predictive capabilities.
+Jaccard similarity computes similarity between sets.

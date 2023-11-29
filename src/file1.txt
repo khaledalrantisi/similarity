@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Java programming language is versatile and powerful.
+OpenAI provides innovative AI solutions.
+Distinct words for testing Jaccard similarity.
